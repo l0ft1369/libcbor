@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -pedantic -flto -fno-fat-lto-objects -rdynamic CMakeFiles/streaming_parser.dir/streaming_parser.c.o -o streaming_parser  ../src/libcbor.a 

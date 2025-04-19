@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -pedantic -flto -fno-fat-lto-objects -rdynamic CMakeFiles/sort.dir/sort.c.o -o sort  ../src/libcbor.a 

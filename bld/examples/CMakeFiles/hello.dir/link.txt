@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -pedantic -flto -fno-fat-lto-objects -rdynamic CMakeFiles/hello.dir/hello.c.o -o hello  ../src/libcbor.a 

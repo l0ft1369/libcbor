@@ -1,0 +1,4 @@
+/src/libcbor/bld/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/foo.dir
+/src/libcbor/bld/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/boo.dir
+/src/libcbor/bld/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/edit_cache.dir
+/src/libcbor/bld/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/rebuild_cache.dir
